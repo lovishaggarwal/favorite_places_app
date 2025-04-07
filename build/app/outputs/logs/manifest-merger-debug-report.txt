@@ -2,8 +2,18 @@
 application
 INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:2:5-33:19
 INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml
+MERGED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\140074b6df75f6d037c8ac5e5a08a5f7\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\140074b6df75f6d037c8ac5e5a08a5f7\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:6:5-20
 MERGED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-32:19
 MERGED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-32:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\55f5be125cbdda9951e37732bff2465d\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\55f5be125cbdda9951e37732bff2465d\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\7019b76e95ec68a87c3ea591638ea5d5\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\7019b76e95ec68a87c3ea591638ea5d5\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
 MERGED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
 MERGED from [androidx.core:core:1.13.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\74c1895ee15d4a639000e095e1132bc7\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
@@ -23,26 +33,31 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LO
 	android:name
 		INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml
 manifest
-ADDED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
-MERGED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:1:1-46:12
-INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+ADDED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml:1:1-9:12
+MERGED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\140074b6df75f6d037c8ac5e5a08a5f7\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:2:1-8:12
 MERGED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-34:12
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:path_provider_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\55f5be125cbdda9951e37732bff2465d\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\7019b76e95ec68a87c3ea591638ea5d5\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\1017b9f6e05bab2c47a4e385584828d8\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity:1.9.3] C:\Users\LOVISHA\.gradle\caches\transforms-3\b91f4be321109e719225f4f247355d00\transformed\jetified-activity-1.9.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
-MERGED from [androidx.window:window-java:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\0e1e3287d91662f525b36a1624e5b207\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\2707d8e260b3b517a772df6835e31012\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6a1daa1e42f70b00797141ae30d2e15b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6e2b7be7b1d934c6f40ede210b985b3d\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\85f309d4c84b1b405901365042a6e699\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\d1cfba222281d2f9b19ea73ff8e1aa2f\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\91b5e5b25377c64804721c876247b2ba\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\c4e760ca9e30d043477de9b59307c468\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\e795b942619b75a750e52c0090bcfd7d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\0e1e3287d91662f525b36a1624e5b207\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6a1daa1e42f70b00797141ae30d2e15b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ab28e8f385c6612c7a99eadceb78a49a\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.13.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\74c1895ee15d4a639000e095e1132bc7\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\154315e300a096e2945ecbc07085dd23\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
@@ -84,28 +99,44 @@ MERGED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\a
 MERGED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:45:5-66
 	android:name
 		ADDED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:45:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:46:5-77
+MERGED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:46:5-77
+MERGED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:46:5-77
+	android:name
+		ADDED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:46:22-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:47:5-84
+MERGED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:47:5-84
+MERGED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:47:5-84
+	android:name
+		ADDED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\main\AndroidManifest.xml:47:22-82
 uses-sdk
 INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml
 INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml
+MERGED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\140074b6df75f6d037c8ac5e5a08a5f7\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-location:21.3.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\140074b6df75f6d037c8ac5e5a08a5f7\transformed\jetified-play-services-location-21.3.0\AndroidManifest.xml:4:5-44
 MERGED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
 MERGED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:6:5-44
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:path_provider_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:path_provider_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\55f5be125cbdda9951e37732bff2465d\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\55f5be125cbdda9951e37732bff2465d\transformed\jetified-play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\7019b76e95ec68a87c3ea591638ea5d5\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\7019b76e95ec68a87c3ea591638ea5d5\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\1017b9f6e05bab2c47a4e385584828d8\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\1017b9f6e05bab2c47a4e385584828d8\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity:1.9.3] C:\Users\LOVISHA\.gradle\caches\transforms-3\b91f4be321109e719225f4f247355d00\transformed\jetified-activity-1.9.3\AndroidManifest.xml:20:5-44
 MERGED from [androidx.activity:activity:1.9.3] C:\Users\LOVISHA\.gradle\caches\transforms-3\b91f4be321109e719225f4f247355d00\transformed\jetified-activity-1.9.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.window:window-java:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\0e1e3287d91662f525b36a1624e5b207\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
-MERGED from [androidx.window:window-java:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\0e1e3287d91662f525b36a1624e5b207\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\2707d8e260b3b517a772df6835e31012\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\2707d8e260b3b517a772df6835e31012\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6a1daa1e42f70b00797141ae30d2e15b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6a1daa1e42f70b00797141ae30d2e15b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6e2b7be7b1d934c6f40ede210b985b3d\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6e2b7be7b1d934c6f40ede210b985b3d\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\85f309d4c84b1b405901365042a6e699\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
@@ -118,6 +149,12 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\L
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\c4e760ca9e30d043477de9b59307c468\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\e795b942619b75a750e52c0090bcfd7d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\e795b942619b75a750e52c0090bcfd7d\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\0e1e3287d91662f525b36a1624e5b207\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\0e1e3287d91662f525b36a1624e5b207\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6a1daa1e42f70b00797141ae30d2e15b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\6a1daa1e42f70b00797141ae30d2e15b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ab28e8f385c6612c7a99eadceb78a49a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ab28e8f385c6612c7a99eadceb78a49a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.13.1] C:\Users\LOVISHA\.gradle\caches\transforms-3\74c1895ee15d4a639000e095e1132bc7\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
@@ -152,6 +189,24 @@ MERGED from [com.getkeepsafe.relinker:relinker:1.4.5] C:\Users\LOVISHA\.gradle\c
 		INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:8:22-76
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\location\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-71
 provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
 ADDED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:9-17:20
 	android:grantUriPermissions
@@ -190,6 +245,20 @@ ADDED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Developmen
 		ADDED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:30:17-33
 	android:name
 		ADDED from [:image_picker_android] C:\Users\LOVISHA\Documents\Flutter_Development\favorite_places_app\build\image_picker_android\intermediates\merged_manifest\debug\AndroidManifest.xml:29:17-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ee41863823381887fde3e2de43d73aaf\transformed\jetified-play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\7019b76e95ec68a87c3ea591638ea5d5\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\7019b76e95ec68a87c3ea591638ea5d5\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\7019b76e95ec68a87c3ea591638ea5d5\transformed\jetified-play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.2.0] C:\Users\LOVISHA\.gradle\caches\transforms-3\ace60e8e30df61681292083d41c836d5\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
 	android:required

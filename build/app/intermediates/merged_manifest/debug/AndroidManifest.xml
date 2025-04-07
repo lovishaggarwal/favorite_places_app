@@ -13,6 +13,8 @@
          to allow setting breakpoints, to provide hot reload, etc.
     -->
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
     <!--
      Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility and
@@ -27,6 +29,9 @@
             <data android:mimeType="text/plain" />
         </intent>
     </queries>
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <permission
         android:name="com.example.favoritePlacesApp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
@@ -75,6 +80,12 @@
             android:name="flutterEmbedding"
             android:value="2" />
 
+        <service
+            android:name="com.lyokone.location.FlutterLocationService"
+            android:enabled="true"
+            android:exported="false"
+            android:foregroundServiceType="location" />
+
         <provider
             android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
             android:authorities="com.example.favoritePlacesApp.flutter.image_provider"
@@ -96,6 +107,15 @@
                 android:name="photopicker_activity:0:required"
                 android:value="" />
         </service>
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
 
         <uses-library
             android:name="androidx.window.extensions"

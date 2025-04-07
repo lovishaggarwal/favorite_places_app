@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:favoritePlacesApp/models/place.dart';
 import 'package:favoritePlacesApp/providers/user_places.dart';
 import 'package:favoritePlacesApp/widgets/image_input.dart';
+import 'package:favoritePlacesApp/widgets/location_input.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
@@ -72,6 +73,8 @@ class AddPlaceScreen extends ConsumerWidget {
                     imageFile = image;
                   },
                 ),
+                SizedBox(height: 10),
+                LocationInput(),
                 SizedBox(height: 10),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.end,
